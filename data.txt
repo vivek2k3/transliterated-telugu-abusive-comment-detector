@@ -1,0 +1,15 @@
+Totally there are 10083 comments
+Rules:
+1. Ignore the comment if its just a tag
+2. Ignore comments without any meaning
+3. Ignore Telugu typed comments
+4. By ignorance we mean do not place either Yes/No in that column
+5. Mark a comment abusive if it hurts the person's feelings but passing a negative opinion may not be abusive
+6. only mark one of 2 options either Yes or No exactly. Do not write yes or no or nO or yeS or YeS etc
+7. Yes for abusive and No for non-abusive
+
+The above are row numbers, label the row numbers assigned to you
+Please provide data accurately as it may lead to improper model
+*Do not delete any data*
+
+Link: https://docs.google.com/spreadsheets/d/16qKm3xf074S80aGzPyTTEM9B6NsEu_IAMTC5EF37YCE/edit?usp=sharing
